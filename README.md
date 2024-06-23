@@ -10,7 +10,7 @@
 2. 应用多线程技术，同时发送多个ARP请求以加快扫描速度。
 3. 对于收到的ARP应答包，解析其中的MAC地址信息并输出。
 ## 运行环境
-Windows和linux都行，要有Python3及依赖(无UI版不需要安装Q)
+Windows和linux都行，要有Python3及依赖(无UI版不需要安装QT)
 
 ```
 pip install -r requirements.txt
